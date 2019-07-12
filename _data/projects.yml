@@ -4,7 +4,7 @@
     <a href="https://www.lockheedmartin.com/en-us/news/events/ai-innovation-challenge.html" target="_blank"> AlphaPilot </a> is an autonomous drone racing competition hosted by Lockheed Martin and DRL. I lead a team of friends in developing the software for a fully autonomous vision-based quadrotor. Core tech stack:
     <ul type="square">
       <li> PID controls for attitude stabilization and trajectory tracking </li>
-      <li> <a href="https://github.com/HKUST-Aerial-Robotics/VINS-Mono" target="_blank"> VINS-Mono</a> VIO </li>
+      <li> <a href="https://github.com/HKUST-Aerial-Robotics/VINS-Mono" target="_blank"> VINS-Mono VIO </a> </li>
       <li> Structure from motion </li>
       <li> On-line trajectory generation </li>
     </ul>
