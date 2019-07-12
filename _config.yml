@@ -1,5 +1,5 @@
 # Website settings
-url: "https://randxie.github.io/"
+url: "https://thedonfung.github.io/"
 baseurl: ""
 
 # Internal nav
@@ -14,42 +14,25 @@ nav:
     tags: "/writing/tags"
 
 # Bio settings
-name: "Rand Xie"
-description: "The home page of Rand Xie."
+name: "Don Fung"
+description: "The home page of Don Fung."
 thumbnail_path: "profile-photos/randxie_profile.jpg"
 
 # URLs
 contact_urls:
-  twitter:
-    url: "https://twitter.com/Randxie29"
-    label: "Twitter"
-    icon: "twitter-square"
-    username: "@Randxie29"
   linkedin:
-    url: "https://www.linkedin.com/in/yuyang-xie-48489639/"
+    url: "https://www.linkedin.com/in/don-fung-3099b111a/"
     label: "LinkedIn"
     icon: "linkedin-square"
-  kaggle:
-    url: "https://www.kaggle.com/randxie"
-    label: "Kaggle"
-    icon: "coffee"
-  zhihu:
-    url: "https://www.zhihu.com/people/xiao-yu-22-71-20/answers"
-    label: "Zhihu"
-    icon: "book"
   github:
-    url: "https://github.com/randxie"
+    url: "https://github.com/thedonfung"
     label: "GitHub"
     icon: "github-square"
   email:
-    url: "randxiexyy29@gmail.com"
+    url: "donovanfung@gmail.com"
     label: "Email"
-    value: "randxiexyy29@gmail.com"
+    value: "donovanfung@gmail.com"
     icon: "envelope-square"
-
-uptake_url: "https://www.uptake.com/"
-mathworks_url: "https://www.mathworks.com/"
-pm_toolbox_url: "https://www.mathworks.com/products/predictive-maintenance.html/"
 
 # Jekyll build settings
 paginate: 10
