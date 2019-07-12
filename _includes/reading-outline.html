@@ -1,5 +1,5 @@
 {% capture reading_title_element %}{% if include.reading_title_element %}{{ include.reading_title_element }}{% else %}h2{% endif %}{% endcapture %}
-<div class="mxn2 clearfix mb2 py3{% unless include.exclude_divider %}  {% endunless %}">
+<div class="mxn2 clearfix mb2 py3">
   <div class="col sm-col-2 px1 mb2">
     <a href="{{ include.reading.url }}" target="_blank">
       {% capture image_path %}reading/{{ include.reading.image }}{% endcapture %}
