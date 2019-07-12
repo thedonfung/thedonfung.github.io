@@ -5,8 +5,8 @@ baseurl: ""
 # Internal nav
 nav:
   main:
-    speaking: "/speaking"
     projects: "/projects"
+    reading: "/reading"
 
 # Bio settings
 name: "Don Fung"
