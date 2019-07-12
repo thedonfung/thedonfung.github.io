@@ -8,8 +8,10 @@
     
   </div>
   <div class="col sm-col-8 px2">
-    <a href="{{ include.project.url }}" target="_blank" name="{{ include.project.name | downcase | replace:' ','-' | remove:',' }}"><{{ project_title_element }} class="mt0 mb0">{{ include.project.name }}</{{ project_title_element }}></a>
-    <a href="{{ include.project.url }}" target="_blank" class="block h6 mb2">{{ include.project.url }}</a>
-    <p class="left-align">{{ include.project.description }}</p>
+    {include.project.name}
+    <!-- <a href="{{ include.project.url }}" target="_self" name="{{ include.project.name | downcase | replace:' ','-' | remove:',' }}"><{{ project_title_element }} class="mt0 mb0">{{ include.project.name }}</{{ project_title_element }}></a>
+    <a href="{{ include.project.url }}" target="_self" class="block h6 mb2">{{ include.project.url }}</a>
+    <p class="left-align">{{ include.project.description }}</p> -->
+    {include.project.description}
   </div>
 </div>
