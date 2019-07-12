@@ -6,9 +6,9 @@
       {% include image.html path=image_path alt=include.reading.name %}
     </a>
   </div>
-  <div class="col sm-col-8 px1">
+  <div class="col sm-col-10 px1">
     <a href="{{ include.reading.url }}" target="_blank" name="{{ include.reading.name | downcase | replace:' ','-' | remove:',' }}"><{{ reading_title_element }} class="mt0 mb0">{{ include.reading.name }}</{{ reading_title_element }}></a>
     <a href="{{ include.reading.url }}" target="_blank" class="block h6 mb2">{{ include.reading.url }}</a>
-    <!-- <p class="left-align">{{ include.reading.description }}</p> -->
+    <p class="left-align" font-size:6px;>{{ include.reading.author }}</p>
   </div>
 </div>
