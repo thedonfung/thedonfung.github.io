@@ -11,7 +11,7 @@ nav:
 # Bio settings
 name: "Don Fung"
 description: "The home page of Don Fung."
-thumbnail_path: "profile-photos/randxie_profile.jpg"
+thumbnail_path: "profile-photos/donfung_profile.jpg"
 
 # URLs
 contact_urls:
@@ -41,7 +41,7 @@ timezone: 'America/Los_Angeles'
 markdown: kramdown
 
 disqus:
-  shortname: randxie
+  shortname: donfung
 
 # Plugins (GitHub Pages only support a few)
 gems:
