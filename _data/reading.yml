@@ -26,3 +26,15 @@
   date: "2019"
   image: "rework.jpg"
   author: Jason Fried & David H. Hansson 
+- name: "Rich Dad Poor Dad"
+  date: "2019"
+  image: "richdad.jpg"
+  author: Robert Kiyosaki
+- name: "How to Day Trade for a Living"
+  date: "2019"
+  image: "daytrade.jpg"
+  author: Andrew Aziz
+- name: "Wine Bible"
+  date: "2019"
+  image: "winebible.jpg"
+  author: Karen MacNeil
