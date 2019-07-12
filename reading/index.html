@@ -1,12 +1,11 @@
 ---
 layout: default
 title: "Don Fung: Reading"
-redirect_from: "/reading"
 header_title: Reading
 include_header: reading_header.html
 nav_item: reading
 ---
 
-{% for book in site.data.reading %}
+{% for reading in site.data.reading %}
   {% include reading-outline.html reading=reading %}
 {% endfor %}
