@@ -38,3 +38,11 @@
   date: "2019"
   image: "winebible.jpg"
   author: Karen MacNeil
+- name: "An Astronauts Guide to Life on Earth"
+  date: "2019"
+  image: "astronautsguide.jpg"
+  author: Chris Hadfield
+- name: "Zero to One"
+  date: "2019"
+  image: "zerotoone.jpg"
+  author: Peter Thiel
