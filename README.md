@@ -1,6 +1,6 @@
-# Rand Xie Home Page
+# Don Fung Home Page
 
-This is the code for the [Rand Xie Home Page](randxie.github.io). Most components are copifed from [Yevgeniy Brikman Home Page](https://www.ybrikman.com).
+This is the code for the [Don Fung Home Page](thedonfung.github.io). Repo is forked from [Rand Xie's repo](github.com/randxie), and originally taken from [Yevgeniy Brikman Home Page](https://www.ybrikman.com).
 
 ## License
 
