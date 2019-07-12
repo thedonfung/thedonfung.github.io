@@ -1,5 +1,28 @@
 - name: "Code: The Hidden Language of Computer Hardware and Software"
   date: "2019"
   image: "code.jpg"
-  description: |
-
+  author: Charles Petzold
+- name: "The Lean Startup"
+  date: "2019"
+  image: "leanstartup.jpg"
+  author: Eric Ries
+- name: "12 Rules for Life"
+  date: "2019"
+  image: "12rules.jpg"
+  author: Jordan B. Peterson
+- name: "Never Split the Difference"
+  date: "2019"
+  image: "neversplit.jpg"
+  author: Chris Voss
+- name: "Grit"
+  date: "2019"
+  image: "grit.jpg"
+  author: Angela Duckworth
+- name: "How to Win Friends and Influence People"
+  date: "2019"
+  image: "howtowin.jpg"
+  author: Dale Carnegie  
+- name: "Rework"
+  date: "2019"
+  image: "rework.jpg"
+  author: Jason Fried & David H. Hansson 
