@@ -3,7 +3,7 @@
   description: |
     I lead a team of friends in developing the software for a fully autonomous vision-based quadrotor. Core tech stack:
     <ul type="square">
-      <li> PID controllers for attitude stabilization and trajectory tracking </li>
+      <li> PID controls for attitude stabilization and trajectory tracking </li>
       <li> <a href="https://github.com/HKUST-Aerial-Robotics/VINS-Mono" target="_blank"> VINS-Mono VIO </a> </li>
       <li> Structure from motion </li>
       <li> On-line trajectory generation </li>
