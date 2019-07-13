@@ -1,7 +1,7 @@
 - name: "AlphaPilot 2019 (Team Deadlock)"
   date: "2019"
   description: |
-    <a href="https://www.lockheedmartin.com/en-us/news/events/ai-innovation-challenge.html" target="_blank"> AlphaPilot </a> is an autonomous drone racing competition hosted by Lockheed Martin and DRL. I lead a team of friends in developing the software for a fully autonomous vision-based drone. Our core tech stack includes:
+    <a href="https://www.lockheedmartin.com/en-us/news/events/ai-innovation-challenge.html" target="_blank"> AlphaPilot </a> is an autonomous drone racing competition hosted by Lockheed Martin and DRL. I lead a team of engineers in developing the software for a fully autonomous vision-based drone. Our core tech stack includes:
     <ul type="square">
       <li> PID controls for attitude stabilization and trajectory tracking </li>
       <li> <a href="https://github.com/HKUST-Aerial-Robotics/VINS-Mono" target="_blank"> VINS-Mono</a> VIO </li>
