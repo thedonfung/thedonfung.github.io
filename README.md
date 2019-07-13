@@ -1,6 +1,6 @@
 # Don Fung Home Page
 
-This is the code for the [Don Fung Home Page](thedonfung.github.io). Repo is forked from [Rand Xie's repo](github.com/randxie), and originally taken from [Yevgeniy Brikman Home Page](https://www.ybrikman.com).
+This is the code for my [homepage](https://thedonfung.github.io/). Repo is forked from [Rand Xie's repo](https://github.com/randxie), and originally taken from [Yevgeniy Brikman Home Page](https://www.ybrikman.com).
 
 ## License
 
