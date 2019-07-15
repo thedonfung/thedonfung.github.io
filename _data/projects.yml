@@ -9,7 +9,6 @@
       <li> On-line trajectory generation </li>
       <li> <a href="https://github.com/matterport/Mask_RCNN" target="_blank"> Mask R-CNN </a> </li>
       <li> <a href="https://github.com/mit-fast/FlightGoggles" target="_blank"> FlightGoggles</a> simulation environment </li>
-      <li> Python + ROS backend </li>
     </ul>
 
   image: "alphapilot.jpg"
