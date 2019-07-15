@@ -24,6 +24,7 @@ contact_urls:
     label: "GitHub"
     icon: "github-square"
   email:
+    url: "mailto:donovanfung@gmail.com"
     label: "Email"
     value: "donovanfung@gmail.com"
     icon: "envelope-square"
