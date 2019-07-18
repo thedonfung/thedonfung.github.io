@@ -1,9 +1,9 @@
-  name: "Game of Drones 2019"
+- name: "Game of Drones 2019"
   date: "2019"
   description: |
     <a href="https://www.microsoft.com/en-us/research/academic-program/game-of-drones-competition-at-neurips-2019/" target="_blank"> Game of Drones 2019 </a> is an autonomous drone racing competition hosted by Microsoft and NeurIPS that has recently begun (July 15th until Dec 7). I have currently just started developing the infrastructure with a friend and am also looking for dedicated teammates! 
   image: "airsim.png"
-  name: "AlphaPilot 2019 (Team Deadlock)"
+- name: "AlphaPilot 2019 (Team Deadlock)"
   date: "2019"
   description: |
     <a href="https://www.lockheedmartin.com/en-us/news/events/ai-innovation-challenge.html" target="_blank"> AlphaPilot </a> is an autonomous drone racing competition hosted by Lockheed Martin and DRL. I lead a team of engineers in developing the software for a fully autonomous vision-based drone. Our core tech stack includes:
@@ -17,7 +17,7 @@
     </ul>
 
   image: "alphapilot.jpg"
-  name: "AIAA Design, Build, Fly 2016"
+- name: "AIAA Design, Build, Fly 2016"
   date: "2016"
   description: |
     <a href="https://www.aiaa.org/dbf" target="_blank"> AIAA DBF </a> is an RC aircraft design competition. I lead UCLA's DBF team in the design and sizing of the propulsion and actuator systems for our RC aircrafts. 
