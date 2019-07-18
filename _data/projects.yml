@@ -1,20 +1,27 @@
 - name: "Game of Drones 2019"
   date: "2019"
   description: |
-    <a href="https://www.microsoft.com/en-us/research/academic-program/game-of-drones-competition-at-neurips-2019/" target="_blank"> Game of Drones 2019 </a> is an autonomous drone racing competition hosted by Microsoft and NeurIPS that has recently begun (July 15th until Dec 7). I have currently just started developing the infrastructure with a friend and am also looking for dedicated teammates! 
+    <p>
+      <a href="https://www.microsoft.com/en-us/research/academic-program/game-of-drones-competition-at-neurips-2019/" target="_blank"> Game of Drones 2019 </a> is an autonomous drone racing competition hosted by Microsoft and NeurIPS that has recently begun (July 15th until Dec 7). 
+      <br> <br> I have currently just started developing the infrastructure with a friend and am also looking for dedicated teammates! 
+    </p>
+
   image: "airsim.png"
 - name: "AlphaPilot 2019 (Team Deadlock)"
   date: "2019"
   description: |
-    <a href="https://www.lockheedmartin.com/en-us/news/events/ai-innovation-challenge.html" target="_blank"> AlphaPilot </a> is an autonomous drone racing competition hosted by Lockheed Martin and DRL. I lead a team of engineers in developing the software for a fully autonomous vision-based drone. Our core tech stack included:
-    <ul type="square">
-      <li> PID controls for attitude stabilization and trajectory tracking </li>
-      <li> <a href="https://github.com/HKUST-Aerial-Robotics/VINS-Mono" target="_blank"> VINS-Mono</a> for VIO </li>
-      <li> Structure from motion </li>
-      <li> On-line trajectory generation </li>
-      <li> <a href="https://github.com/matterport/Mask_RCNN" target="_blank"> Mask R-CNN</a> for object detection</li>
-      <li> <a href="https://github.com/mit-fast/FlightGoggles" target="_blank"> FlightGoggles</a> simulation environment </li>
-    </ul>
+    <p>
+      <a href="https://www.lockheedmartin.com/en-us/news/events/ai-innovation-challenge.html" target="_blank"> AlphaPilot </a> is an autonomous drone racing competition hosted by Lockheed Martin and DRL. 
+      <br> I lead a team of engineers in developing the software for a fully autonomous vision-based drone. Our core tech stack included:
+      <ul type="square">
+        <li> PID controls for attitude stabilization and trajectory tracking </li>
+        <li> <a href="https://github.com/HKUST-Aerial-Robotics/VINS-Mono" target="_blank"> VINS-Mono</a> for VIO </li>
+        <li> Structure from motion </li>
+        <li> On-line trajectory generation </li>
+        <li> <a href="https://github.com/matterport/Mask_RCNN" target="_blank"> Mask R-CNN</a> for object detection</li>
+        <li> <a href="https://github.com/mit-fast/FlightGoggles" target="_blank"> FlightGoggles</a> simulation environment </li>
+      </ul>
+    </p>
 
   image: "alphapilot.jpg"
 - name: "AIAA Design, Build, Fly 2016"
