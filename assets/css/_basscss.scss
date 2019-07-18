@@ -1129,12 +1129,3 @@ input[type=range] {
 .border-darken-4 { border-color: rgba(0,0,0,.5) }
 .muted { opacity: .5 }
 
-div {
-  text-align: justify;
-}
-
-div:after {
-  content: "";
-  display: inline-block;
-  width: 100%;
-}
