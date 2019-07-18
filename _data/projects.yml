@@ -3,7 +3,7 @@
   description: |
     <p>
       <a href="https://www.microsoft.com/en-us/research/academic-program/game-of-drones-competition-at-neurips-2019/" target="_blank"> Game of Drones 2019 </a> is an autonomous drone racing competition hosted by Microsoft and NeurIPS that has recently begun (July 15th until Dec 7). 
-      <br> <br> I have currently just started developing the infrastructure with a friend and am also looking for dedicated teammates! 
+      <br> <br> I have currently just started developing the infrastructure with a friend and am also <b>looking for dedicated teammates!</b>
     </p>
 
   image: "airsim.png"
@@ -12,7 +12,7 @@
   description: |
     <p>
       <a href="https://www.lockheedmartin.com/en-us/news/events/ai-innovation-challenge.html" target="_blank"> AlphaPilot </a> is an autonomous drone racing competition hosted by Lockheed Martin and DRL. 
-      <br> I lead a team of engineers in developing the software for a fully autonomous vision-based drone. Our core tech stack included:
+      <br><br> I lead a team of engineers in developing the software for a fully autonomous vision-based drone. Our core tech stack included:
       <ul type="square">
         <li> PID controls for attitude stabilization and trajectory tracking </li>
         <li> <a href="https://github.com/HKUST-Aerial-Robotics/VINS-Mono" target="_blank"> VINS-Mono</a> for VIO </li>
