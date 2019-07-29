@@ -1,3 +1,7 @@
+- name: "So Good They Can't Ignore You"
+  date: "2019"
+  image: "sogood.jpg"
+  author: "Cal Newport"
 - name: "Code"
   date: "2019"
   image: "code.jpg"
