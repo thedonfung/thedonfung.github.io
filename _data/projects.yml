@@ -3,7 +3,7 @@
   description: |
     <p>
       <a href="https://www.microsoft.com/en-us/research/academic-program/game-of-drones-competition-at-neurips-2019/" target="_blank"> Game of Drones </a> is an autonomous drone racing competition hosted by Microsoft and NeurIPS that has recently begun (July 15th until Dec 7). 
-      <br>&emsp;&emsp;I have currently just started developing the infrastructure with a friend and am also <b>looking for dedicated teammates!</b>
+      &emsp;&emsp; I am currently working on this.
     </p>
 
   image: "airsim.png"
