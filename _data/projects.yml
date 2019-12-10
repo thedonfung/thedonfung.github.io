@@ -1,12 +1,3 @@
-- name: "Game of Drones 2019"
-  date: "2019"
-  description: |
-    <p>
-      <a href="https://www.microsoft.com/en-us/research/academic-program/game-of-drones-competition-at-neurips-2019/" target="_blank"> Game of Drones </a> is an autonomous drone racing competition hosted by Microsoft and NeurIPS that has recently begun (July 15th until Dec 7). 
-      &emsp;&emsp; I am currently working on this project.
-    </p>
-
-  image: "airsim.png"
 - name: "AlphaPilot 2019 (Team Deadlock)"
   date: "2019"
   description: |
