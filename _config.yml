@@ -6,7 +6,7 @@ baseurl: ""
 nav:
   main:
     projects: "/projects"
-#    reading: "/reading"
+    reading: "/reading"
 
 # Bio settings
 name: "Don Fung"
