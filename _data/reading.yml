@@ -1,16 +1,13 @@
-<<<<<<< HEAD
 - name: "Range"
   date: "2020"
   image: "range.jpg"
 - name: "Loonshots"
   date: "2020"
   image: "loonshots.jpg"
-=======
 - name: "So Good They Can't Ignore You"
   date: "2019"
   image: "sogood.jpg"
   author: "Cal Newport"
->>>>>>> 7a4f8389a77a19d20fe8f3829df23db5e2fcadd6
 - name: "Code"
   date: "2019"
   image: "code.jpg"
