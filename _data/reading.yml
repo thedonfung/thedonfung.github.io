@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 - name: "Range"
   date: "2020"
   image: "range.jpg"
 - name: "Loonshots"
   date: "2020"
   image: "loonshots.jpg"
+=======
+- name: "So Good They Can't Ignore You"
+  date: "2019"
+  image: "sogood.jpg"
+  author: "Cal Newport"
+>>>>>>> 7a4f8389a77a19d20fe8f3829df23db5e2fcadd6
 - name: "Code"
   date: "2019"
   image: "code.jpg"
@@ -27,19 +34,15 @@
 - name: "How to Win Friends and Influence People"
   date: "2019"
   image: "howtowin.jpg"
-  author: Dale Carnegie  
+  author: Dale Carnegie
 - name: "Rework"
   date: "2019"
   image: "rework.jpg"
-  author: Jason Fried & David H. Hansson 
+  author: Jason Fried & David H. Hansson
 - name: "Rich Dad Poor Dad"
   date: "2019"
   image: "richdad.jpg"
   author: Robert Kiyosaki
-- name: "How to Day Trade for a Living"
-  date: "2019"
-  image: "daytrade.jpg"
-  author: Andrew Aziz
 - name: "Wine Bible"
   date: "2019"
   image: "winebible.jpg"
@@ -52,3 +55,7 @@
   date: "2019"
   image: "zerotoone.jpg"
   author: Peter Thiel
+- name: "The Subtle Art of Not Giving a F*ck"
+  date: "2019"
+  image: "subtleart.jpg"
+  author: Mark Manson

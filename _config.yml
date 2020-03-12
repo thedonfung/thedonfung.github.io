@@ -20,7 +20,7 @@ contact_urls:
     label: "LinkedIn"
     icon: "linkedin-square"
   github:
-    url: "https://github.com/thedonfung"
+    url: "https://github.com/donfung"
     label: "GitHub"
     icon: "github-square"
   email:
