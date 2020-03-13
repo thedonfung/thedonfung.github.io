@@ -1,9 +1,11 @@
 - name: "Range"
   date: "2020"
   image: "range.jpg"
+  author: David Epstein
 - name: "Loonshots"
   date: "2020"
   image: "loonshots.jpg"
+  author: Safi Bahcall
 - name: "So Good They Can't Ignore You"
   date: "2019"
   image: "sogood.jpg"
