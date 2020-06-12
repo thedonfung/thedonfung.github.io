@@ -5,7 +5,7 @@ baseurl: ""
 # Internal nav
 nav:
   main:
-    projects: "/projects"
+    #projects: "/projects"
     reading: "/reading"
 
 # Bio settings
